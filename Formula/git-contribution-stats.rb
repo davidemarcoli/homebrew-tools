@@ -1,8 +1,8 @@
 class GitContributionStats < Formula
   desc "Script for analyzing Git repository contributions by author"
   homepage "https://github.com/davidemarcoli/tools"
-  url "https://github.com/davidemarcoli/tools/archive/v1.1.0.tar.gz"
-  sha256 "e905176585325cdff2d243cb91755444e24074b15e9eed01f29c375dfbd076c3"
+  url "https://github.com/davidemarcoli/tools/archive/v1.2.0.tar.gz"
+  sha256 "62ea3eec16550f3957f14624ed09e9387ab0afdf215add8fb20120d17351e908"
   license "The Unlicensed"
   
   depends_on "git"
